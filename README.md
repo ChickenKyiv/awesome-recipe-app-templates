@@ -26,31 +26,31 @@ Restaurant apps
 Grocery shop
 * https://codecanyon.net/item/grocery-shop-android-app/20760670
 
-https://codecanyon.net/item/ultimate-recipe-app-template/18368255
+- https://codecanyon.net/item/ultimate-recipe-app-template/18368255
 
-https://codecanyon.net/item/shopping-list-app-template/20967710
-https://codecanyon.net/item/foody-ionic-3-full-restaurant-app/21081198
-https://codecanyon.net/item/ionic-3-toolkit-firebase-personal-edition-full-application-with-firebase-backend/20792874
-https://codecanyon.net/item/shopping-list-app-template/20967710
+- https://codecanyon.net/item/shopping-list-app-template/20967710
+- https://codecanyon.net/item/foody-ionic-3-full-restaurant-app/21081198
+- https://codecanyon.net/item/ionic-3-toolkit-firebase-personal-edition-full-application-with-firebase-backend/20792874
+- https://codecanyon.net/item/shopping-list-app-template/20967710
 
 Just recipes
 
-https://codecanyon.net/item/material-recipe-web-10/21171969
-https://codecanyon.net/item/material-recipe-41/14531290
+- https://codecanyon.net/item/material-recipe-web-10/21171969
+- https://codecanyon.net/item/material-recipe-41/14531290
 
-https://codecanyon.net/item/recipe-app-complete-react-native-app-for-recipes/21161178
+- https://codecanyon.net/item/recipe-app-complete-react-native-app-for-recipes/21161178
 
-https://codecanyon.net/user/mobidonia
+- https://codecanyon.net/user/mobidonia
 
-https://codecanyon.net/search/recipe?as=0&referrer=homepage&utf8=%E2%9C%93
-https://www.producthunt.com/posts/app-development-for-non-technical-founders?utm_content=buffer71883&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer
-https://10xfactory.typeform.com/to/OYNJiw
-
-
-
-https://startreact.com/themes/nativebase-kitchensink/?utm_source=nativebase&utm_medium=showcase+section&utm_campaign=nativebase
-https://startreact.com/themes/
-https://startreact.com/themes/nativebase-todoapp/?utm_source=nativebase&utm_medium=showcase+section&utm_campaign=nativebase
+- https://codecanyon.net/search/recipe?as=0&referrer=homepage&utf8=%E2%9C%93
+- https://www.producthunt.com/posts/app-development-for-non-technical-founders?utm_content=buffer71883&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer
+- https://10xfactory.typeform.com/to/OYNJiw
 
 
-https://www.imore.com/best-party-recipe-apps
+
+- https://startreact.com/themes/nativebase-kitchensink/?utm_source=nativebase&utm_medium=showcase+section&utm_campaign=nativebase
+- https://startreact.com/themes/
+- https://startreact.com/themes/nativebase-todoapp/?utm_source=nativebase&utm_medium=showcase+section&utm_campaign=nativebase
+
+
+- https://www.imore.com/best-party-recipe-apps
